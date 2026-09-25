@@ -1,0 +1,6 @@
+{
+  "name": "SentinelAPI - Zero-Trust API Vulnerability Scanner",
+  "description": "Enterprise-grade Zero-Trust API Vulnerability Scanner detecting authorization flaws, data exposure, authentication misconfigurations, and rate-limiting issues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
