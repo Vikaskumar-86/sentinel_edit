@@ -275,7 +275,7 @@ const INITIAL_PROJECTS: SecurityProject[] = [
 ];
 
 export default function App() {
-  const [currentPage, setCurrentPage] = useState<PageId>('projects');
+  const [currentPage, setCurrentPage] = useState<PageId>('landing');
   const [projects, setProjects] = useState<SecurityProject[]>(INITIAL_PROJECTS);
   const [activeProject, setActiveProject] = useState<SecurityProject | null>(INITIAL_PROJECTS[0]);
 
